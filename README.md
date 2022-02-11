@@ -1,5 +1,3 @@
-steve changed again after main2. Jorge added after Steve.
-
 # README CHANGE
 ---
 page_type: sample
